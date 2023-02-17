@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: OneFromAbsolutelyEveryone
+  title: One From Absolutely Everyone
+  author: Quinn Wuest
+  description: '[b]One From Absolutely Everyone[/b]
+
+    Read the full description for more information.
+
+
+    This mission contains one module from every single Developer, Manual, or Idea
+    credit on the Repository of Manual Pages.
+
+
+    Needy modules, pseudoneedy modules, boss modules, semiboss modules, bugged modules,
+    and credits for something other than Developer, Manual, or Idea, are not included
+    on this bomb. The names of the people who only have such credits are:
+
+    Draykien Cyndrak, edderiofer, epictho, ExE, Hugo Lindberg, Incognito, Ion Lee,
+    Jenny, JG, Knaapje, LR, McDude73, Mickeylover, Mrs_Flu$h, Oshisure, Protho04,
+    ry00001, scripto, SoullessTurtle, StarryFolf, sw3aterCS, TheyCallMeSpy, weird,
+    Willem Meijer, yabbaguy
+
+
+    [url=https://docs.google.com/spreadsheets/d/1IFWjn01Qof7EUVFq3oLF9BwxpUcQN3QZBTKjkrBtwCk/edit?usp=sharing]Here
+    is the spreadsheet containing all of the information for this mission.[/url]
+
+
+    The current version of this mission is v0.2.1.
+
+    Most of these developer/module assignments were done by me. If you have a credit
+    on this bomb, and you do not like the module you were assigned, DM me on Discord
+    at Quinn Wuest#7429.
+
+
+    Mission IDs:
+
+    mod_OneFromAbsolutelyEveryone_OneFromAbsolutelyEveryone
+
+    mod_OneFromAbsolutelyEveryone_OneFromAbsolutelyEveryoneTP'
+  version: 0.2.1
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 5bb119a76d8a0404389fb65a12bf8908, type: 3}
