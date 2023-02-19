@@ -1261,7 +1261,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - peridocWordsRB
+      - periodicWordsRB
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
