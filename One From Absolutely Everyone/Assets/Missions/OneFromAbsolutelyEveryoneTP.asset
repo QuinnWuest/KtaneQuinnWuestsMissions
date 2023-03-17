@@ -19,7 +19,7 @@ MonoBehaviour:
     TP Version. Removed:
 
     Simplified Keypad, Blaseball, perspective eggs, Traffic Board, GTA Cheats, Eight
-    Tiles Panic, Cruel Simpleto'
+    Tiles Panic, Cruel Simpleton, Nokia'
   GeneratorSetting:
     TimeLimit: 28800
     NumStrikes: 35
@@ -1724,6 +1724,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - xtrpasscodes
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - uraMasyuModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 

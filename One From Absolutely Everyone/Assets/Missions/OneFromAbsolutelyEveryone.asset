@@ -583,6 +583,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - GL_nokiaModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - TheUltracubeModule
     - Count: 1
       AllowedSources: 0
@@ -1759,6 +1765,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - xtrpasscodes
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - uraMasyuModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
