@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: Communitworion
+  title: Communitworion
+  author: Quinn Wuest
+  description: "Imagine another bomb where another person asked 100 further community
+    members what ONE module they wanted to see on another bomb. This is the result.\r\n\r\nThese
+    were the rules for their module choice:\r\n- You must not be marked as a main
+    contributor (Developer, Manual) of the module you choose. Only choose a module
+    made by another person.\r\n- The module must be in the range of 4 to 30 points
+    on Twitch Plays.\r\n- If the module is a boss module, it must be worth a maximum
+    of 2 points per module.\r\n- If the module is a boss/semiboss module, it must
+    not be able to strike due to lack of input or incorrect solve order.\r\n- The
+    module must not be a needy/pseudoneedy module.\r\n- No duplicates."
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 2a922941aaddd7d47bf55c14779f6ef7, type: 3}

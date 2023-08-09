@@ -18,8 +18,8 @@ MonoBehaviour:
 
     TP Version. Removed:
 
-    Simplified Keypad, Blaseball, perspective eggs, Traffic Board, GTA Cheats, Eight
-    Tiles Panic, Cruel Simpleton, Nokia'
+    Simplified Keypad, Blaseball, Traffic Board, GTA Cheats, Nokia, Letter Layers,
+    Grand Piano, Memory Buster, Fifty Blessings'
   GeneratorSetting:
     TimeLimit: 28800
     NumStrikes: 35
@@ -27,6 +27,12 @@ MonoBehaviour:
     FrontFaceOnly: 0
     OptionalWidgetCount: 5
     ComponentPools:
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - coloredCube
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -86,6 +92,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - nomai
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - wastemanagement
     - Count: 1
       AllowedSources: 0
@@ -128,13 +140,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - dualSequences
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - nomai
+      - flashingCircles
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -278,12 +284,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - theCruelDuck
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - AlienModule
     - Count: 1
       AllowedSources: 0
@@ -405,12 +405,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - xelJohnsonSolids
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - xelLetterLayers
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -633,6 +627,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - parliament
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - CruelSimpleton
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -1526,6 +1526,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - TheGamepadModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - twitter
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 

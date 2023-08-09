@@ -28,7 +28,7 @@ MonoBehaviour:
     1x Piano Paradox'
   GeneratorSetting:
     TimeLimit: 5025
-    NumStrikes: 7
+    NumStrikes: 6
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
     OptionalWidgetCount: 5

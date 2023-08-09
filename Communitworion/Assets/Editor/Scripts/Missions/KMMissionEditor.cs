@@ -523,12 +523,6 @@ public class CustomKMMissionEditor : Editor
             cleanComponentPools.Add(componentPool);
         }
 
-        int limit = frontFaceOnly ? 5 : 11;
-        if (moduleCount > limit)
-        {
-            EditorGUILayout.HelpBox("Total module count is " + moduleCount + " (default limit is " + (frontFaceOnly ? limit + " when FrontFaceOnly=true" : limit.ToString()) + "). Mission may not work as you intend!", MessageType.Error);
-        }
-
         return cleanComponentPools;
     }
 

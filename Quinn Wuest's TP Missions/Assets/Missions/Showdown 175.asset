@@ -21,7 +21,7 @@ MonoBehaviour:
 
     1x Forget This
 
-    1x Simon''s Stages
+    1x Shoddy Chess
 
 
     3x Black/White Hole
@@ -329,12 +329,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - MentalMath
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - MinesweeperModule
     - Count: 1
       AllowedSources: 0
@@ -455,6 +449,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - ShoddyChessModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - SillySlots
     - Count: 1
       AllowedSources: 0
@@ -480,6 +480,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - SkewedSlotsModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - TentsModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -605,12 +611,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - captchaTheFlag
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - challengeAndContact
     - Count: 1
       AllowedSources: 0
@@ -618,6 +618,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - chilliBeans
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - colorPong
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -798,6 +804,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - macroMemory
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - manualMalady
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -995,25 +1007,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - simonSubdivides
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - simonSupports
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - simonsStages
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - smallCircle
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -1080,4 +1074,10 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - xo
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - xrgb
   PacingEventsEnabled: 0

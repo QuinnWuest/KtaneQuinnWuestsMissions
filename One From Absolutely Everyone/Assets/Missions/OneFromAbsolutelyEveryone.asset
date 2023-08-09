@@ -25,6 +25,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - coloredCube
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - complexity
     - Count: 1
       AllowedSources: 0
@@ -79,6 +85,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - nomai
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - wastemanagement
     - Count: 1
       AllowedSources: 0
@@ -121,13 +133,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - dualSequences
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - nomai
+      - flashingCircles
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -271,7 +277,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - theCruelDuck
+      - MemoryBuster
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -410,6 +416,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - xelLetterLayers
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - grandPiano
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -583,13 +595,13 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - GL_nokiaModule
+      - TheUltracubeModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - TheUltracubeModule
+      - GL_nokiaModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -1040,6 +1052,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - Signals
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - FiftyBlessings
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -1567,6 +1585,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - TheGamepadModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - twitter
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
