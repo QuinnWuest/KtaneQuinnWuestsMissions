@@ -9,21 +9,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -434690030, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
-  m_Name: Quinn Wuest's Missions
+  m_Name: QuinnWuestsMissions
   m_EditorClassIdentifier: 
   Title: Quinn Wuest's Missions
   Sections:
   - Title: Quinn Wuest's Missions
     MissionIDs:
-    - The Reasonable
-    - The Unreasonable
-    - The 47 but Autosolver
-    - Help Wanted
-    - The 47 but Mountain Dew
-    - The Quinnturion
-    - The Ceturion
-    - Press 1 to Solve!
-    - Situations When Maintaining the Challenge Bombs Website
+    - Reasonable
+    - Unreasonable
+    - 47ButMountainDew
+    - HelpWanted
+    - Press1ToSolve
+    - QuizmastersRevenge
+    - 47ButAutosolver
+    - SWMTCBWebsite
+    - Quinnturion
   - Title: Other People's Missions
     MissionIDs:
-    - Four Dozen Minus One
+    - FourDozenMinusOne
+  - Title: meme
+    MissionIDs:
+    - Ceturion

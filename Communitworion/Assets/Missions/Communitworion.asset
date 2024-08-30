@@ -12,11 +12,16 @@ MonoBehaviour:
   m_Name: Communitworion
   m_EditorClassIdentifier: 
   DisplayName: Communitworion
-  Description: "\"STOP DELETING YOUR MODULE IF YOU KEEPS DELETING YOUR MODULE I WILL
-    DELETE RULES THAT DOESN'T EXIST FOREVER\r\nYOU KNOWS THAT DELETING YOUR MODULE
-    CAUSES A BUTTERFLY EFFECT THAT RUIN EVERYONE'S SANITY\r\nFIRST IS FUNNY NUMBERS,
-    AND NOW IS RAINBOW ARROWS, IS THIS WORTH IT? I'M GOING TO LEAVE THIS COMMUNITY
-    NOW\"\n-Tachatat18, 2020"
+  Description: '"STOP DELETING YOUR MODULE IF YOU KEEPS DELETING YOUR MODULE I WILL
+    DELETE RULES THAT DOESN''T EXIST FOREVER
+
+    YOU KNOWS THAT DELETING YOUR MODULE CAUSES A BUTTERFLY EFFECT THAT RUIN EVERYONE''S
+    SANITY
+
+    FIRST IS FUNNY NUMBERS, AND NOW IS RAINBOW ARROWS, IS THIS WORTH IT? I''M GOING
+    TO LEAVE THIS COMMUNITY NOW"
+
+    -Tachatat18, 2020'
   GeneratorSetting:
     TimeLimit: 10800
     NumStrikes: 10
@@ -42,12 +47,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - 4d_maze
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - GSAbyss
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -329,6 +328,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - ModuleMaze
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - nameCodes
     - Count: 1
       AllowedSources: 0
@@ -426,6 +431,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - SetModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - scalarDials
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -600,12 +611,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - timeSignatures
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - ModuleMaze
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 

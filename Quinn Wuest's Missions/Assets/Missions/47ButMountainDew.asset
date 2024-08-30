@@ -9,18 +9,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -548183353, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
-  m_Name: The 47 but Autosolver
+  m_Name: 47ButMountainDew
   m_EditorClassIdentifier: 
-  DisplayName: The 47 but Autosolver
-  Description: 'Prequel to the unreleased "The 47 but Graveyard"
+  DisplayName: The 47 But Mountain Dew
+  Description: 'Rejected names include:
 
+    The 47 But 5''3" and Body Odor
 
-    1x Organization
+    The 47 But Chipotle Employee
 
-    1x Pow'
+    The 47 But Budget Timwi'
   GeneratorSetting:
-    TimeLimit: 4487
-    NumStrikes: 7
+    TimeLimit: 5025
+    NumStrikes: 6
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
     OptionalWidgetCount: 5
@@ -30,281 +31,291 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - equationsXModule
+      - AngelHernandezModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - romanArtModule
+      - TentsModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - transmittedMorseModule
+      - DecolourFlashModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - redArrowsModule
+      - FindTheInvisibleCowModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - greenArrowsModule
+      - ChesswordModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - yellowArrowsModule
+      - BombItModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - blueArrowsModule
+      - WanderModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - orangeArrowsModule
+      - DominosaModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - purpleArrowsModule
+      - FittingInModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - cruelDigitalRootModule
+      - BoozleageModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - faultyDigitalRootModule
+      - CastorModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - vectorsModule
+      - PolluxModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - organizationModule
+      - NotBitmapsModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - simonSelectsModule
+      - NotColoredSwitchesModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - masyuModule
+      - NotDoubleOhModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - kookyKeypadModule
+      - NotPerspectivePegsModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - geometryDashModule
+      - NotSymbolicPasswordModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - blinkstopModule
+      - PseudocryptModule
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - QuadrupleSimpletontModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - sequencesModule
+      - GhostModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - powModule
+      - TripleTraversalModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - threeLEDsModule
+      - EncryptionLingoModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - brawlerDatabaseModule
+      - ScramboozledEggainModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - deafAlleyModule
+      - Faulty14SegmentDisplayModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - simonsUltimateShowdownModule
+      - NeutralButtonModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - faultyAccelerandoModule
+      - 3DTapCodeModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - oneLinksToAllModule
+      - ShapeFillModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - pocketPlanesModule
+      - SimonShiftsModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - tealArrowsModule
+      - ASquareModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - gettinFunkyModule
+      - RuleOfThreeModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - doubleScreenModule
+      - CyanButtonModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - valuedKeysModule
+      - RedButtonModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - backButtonsModule
+      - WhiteButtonModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - boobTubeModule
+      - MayhemModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - ultraDigitalRootModule
+      - notTheScrew
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - emoticonMathModule
+      - AquariumModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - connectFourModule
+      - typeRacer
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - rainModule
+      - HaikuModule
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - rainHellModule
+      - NavigationDeterminationModule
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - fireDiamondsModule
+      - RibbitProgrammingModule
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - stabilityModule
+      - DenialDisplaysModule
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - theIconKitModule
+      - RubiksSlideModule
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - simonSaidModule
+      - SlowMathModule
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - theTileMazeModule
+      - LogicWheelModule
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - whosOnMorseModule
+      - MafiaModule
+      - PerplexingWiresModule
+      - BigCircle
+      - ColorMorseModule
+      - screw
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - cursorMazeModule
+      - TwisterModule
+      - PianoParadoxModule
+      - BlackoutModule
     - Count: 1
-      AllowedSources: 0
+      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - historicalPhrasesModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - hiddenInPlainSightModule
+      - runonSentence
+      - SetTheory
+      - SettingSail
+      - offKeys
+      - midCircle
   PacingEventsEnabled: 0

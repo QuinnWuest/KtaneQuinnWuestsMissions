@@ -9,310 +9,373 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -548183353, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
-  m_Name: Help Wanted
+  m_Name: Press1ToSolve
   m_EditorClassIdentifier: 
-  DisplayName: Help Wanted
-  Description: 'Living in the sunlight,
-
-    Loving in the moonlight,
-
-    Having a wonderful time!
+  DisplayName: Press 1 to Solve!
+  Description: 'In theory, this bomb should only require 59 different clicks.
 
 
-    1x Time Keeper
+    1x Module Maneuvers
 
-    1x Lunchtime
-
-    1x The Klaxon
-
-    1x Desert Bus'
+    1x Damocles Lumber'
   GeneratorSetting:
-    TimeLimit: 4800
-    NumStrikes: 7
+    TimeLimit: 4200
+    NumStrikes: 6
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
-    OptionalWidgetCount: 7
+    OptionalWidgetCount: 5
     ComponentPools:
     - Count: 1
       AllowedSources: 0
-      ComponentTypes: 
+      ComponentTypes: 02000000
       SpecialComponentType: 0
-      ModTypes:
-      - spongebobBirthdayIdentification
+      ModTypes: []
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - sevenDeadlySins
+      - ForeignExchangeRates
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - AquariumModule
+      - LetterKeys
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - GameOfLifeSimple
+      - spwizAstrology
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - fruits
+      - monsplodeFight
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - SillySlots
+      - BitmapsModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - stopwatch
+      - webDesign
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - klaxon
+      - XRayModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - ladders
+      - BrailleModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - EmotiguyIdentification
+      - MafiaModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - ikeaPlushies
+      - digitalRoot
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - TheHeart
+      - periodicTable
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - stars
+      - skinnyWires
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - fishing
+      - FlavorText
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - stupidSlots
+      - lgndLombaxCubes
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - burgerAlarm
+      - lgndColoredKeys
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - graffitiNumbers
+      - giantsDrink
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - MoneyGame
+      - cruelDigitalRootModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - KritHomework
+      - legendreSymbol
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - mirror
+      - polygons
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - treasureHunt
+      - dimensionDisruption
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - desertBus
+      - gatekeeper
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - RockPaperScissorsLizardSpockModule
+      - NotMemory
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - GSBottomGear
+      - VCRCS
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - lunchtime
+      - placeholderTalk
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - papasPizzeria
+      - ladderLottery
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - oneLine
+      - StandardCrazyTalk
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - groceryStore
+      - JadenSmithTalk
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - MayhemModule
+      - BoozleTalk
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - BattleshipModule
+      - SpotTheDifference
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - pocketPlanesModule
+      - ColorBrailleModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - cooking
+      - TheKanyeEncounter
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - ingredients
+      - xelBrownBricks
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - sun
+      - NandMs
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - moon
+      - colorHexagons
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - WonderCipher
+      - sugarSkulls
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - timeKeeper
+      - TribalCouncil
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - PurpleButtonModule
+      - pressTheShape
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - BlueButtonModule
+      - QLModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - RedButtonModule
+      - Indentation
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - YellowButtonModule
+      - LetterGrid
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - oneLinksToAllModule
+      - Coinage
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - TwoBits
+      - GSDirectingButtons
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - ThreeCrypticSteps
+      - blueWhale
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Krit4CardMonte
+      - breakfastEgg
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - SimonSmiles
+      - insaIlo
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - SnackAttack
+      - theGarnetThief
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Coordination
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - antistress
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - birthdayCake
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - letterMath
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - doubleDigitsModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - GrayButtonModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - bafflingBox
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - damoclesLumber
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - xrgb
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - moduleManeuvers
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - FindTheInvisibleCowModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Rambopo
   PacingEventsEnabled: 0

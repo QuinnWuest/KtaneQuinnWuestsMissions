@@ -22,7 +22,9 @@ MonoBehaviour:
     on Twitch Plays.\r\n- If the module is a boss module, it must be worth a maximum
     of 2 points per module.\r\n- If the module is a boss/semiboss module, it must
     not be able to strike due to lack of input or incorrect solve order.\r\n- The
-    module must not be a needy/pseudoneedy module.\r\n- No duplicates."
+    module must not be a needy/pseudoneedy module.\r\n- No duplicates.\r\n\r\n[url=https://docs.google.com/spreadsheets/d/1vx8oGwlGeT-kV9-CKyz3GswnBVfaN16unB7hHOSbSUM/edit?usp=sharing]Spreadsheet
+    with everyone's module choice can be found here.[/url]\r\n\r\nThanks to Timwi
+    for the workshop preview image art!"
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 2a922941aaddd7d47bf55c14779f6ef7, type: 3}

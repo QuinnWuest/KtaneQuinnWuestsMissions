@@ -15,11 +15,10 @@ MonoBehaviour:
   title: Quinn Wuest's Missions
   author: Quinn Wuest
   description: "Missions that Quinn Wuest made.\r\nContains modules that Quinn Wuest
-    enjoys. Mostly.\r\n\r\nQuinn's Missions:\r\nThe Reasonable (47)\r\nThe Unreasonable
-    (47)\r\nThe 47 but Autosolver (47)\r\nHelp Wanted (47)\r\nThe 47 But Mountain
-    Dew (47)\r\nThe Quinnturion (101)\r\nThe Ceturion (11)\r\nPress 1 to Solve! (59)\r\nSituations
-    When Maintaining the Challenge Bombs Website (83)\r\n\r\nOther Missions:\r\nThree
-    Baker's Dozen and Eight (47)"
+    enjoys. Mostly.\r\n\r\nQuinn's Missions:\r\nThe Reasonable\nThe Unreasonable\nThe
+    47 But Mountain Dew\nHelp Wanted\nPress 1 to Solve!\nQuizmaster's Revenge\nThe
+    47 But Autosolver\nSituations When Maintaining the Challenge Bombs Website\nThe
+    Quinnturion\n\r\nOther Missions:\r\nFour Dozen Minus One\n\nmeme:\nThe Ceturion"
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 354be1e4356465242a192944fdada12b, type: 3}
