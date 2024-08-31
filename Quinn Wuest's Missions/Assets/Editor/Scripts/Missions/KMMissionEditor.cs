@@ -86,19 +86,7 @@ public class KMMissionEditor : Editor
         {
             int moduleCount = 0;
             foreach (KMComponentPool pool in mission.GeneratorSetting.ComponentPools)
-            {
                 moduleCount += pool.Count;
-            }
-
-            int limit = mission.GeneratorSetting.FrontFaceOnly ? 5 : 11;
-
-            if (moduleCount > limit)
-            {
-                EditorGUILayout.HelpBox(
-                    string.Format("Total module count is {0} (default limit is {1}). Mission may not work as you intend!", moduleCount,
-                    mission.GeneratorSetting.FrontFaceOnly ? limit + " when FrontFaceOnly=true" : limit.ToString()),
-                    MessageType.Error);
-            }
         }
     }
 

@@ -637,4 +637,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - wire
-  PacingEventsEnabled: 0
+  PacingEventsEnabled: 1

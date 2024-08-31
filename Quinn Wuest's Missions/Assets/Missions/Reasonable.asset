@@ -302,4 +302,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - NeutralButtonModule
-  PacingEventsEnabled: 0
+  PacingEventsEnabled: 1

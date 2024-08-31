@@ -315,4 +315,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - SnackAttack
-  PacingEventsEnabled: 0
+  PacingEventsEnabled: 1

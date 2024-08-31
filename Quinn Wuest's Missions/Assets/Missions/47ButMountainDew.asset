@@ -318,4 +318,4 @@ MonoBehaviour:
       - SettingSail
       - offKeys
       - midCircle
-  PacingEventsEnabled: 0
+  PacingEventsEnabled: 1

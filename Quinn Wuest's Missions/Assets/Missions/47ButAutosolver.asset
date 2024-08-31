@@ -307,4 +307,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - hiddenInPlainSightModule
-  PacingEventsEnabled: 0
+  PacingEventsEnabled: 1

@@ -311,4 +311,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - xelDialtones
-  PacingEventsEnabled: 0
+  PacingEventsEnabled: 1

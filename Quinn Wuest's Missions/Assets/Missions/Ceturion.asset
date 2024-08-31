@@ -86,4 +86,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - AnagramsModule
-  PacingEventsEnabled: 0
+  PacingEventsEnabled: 1
