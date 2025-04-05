@@ -14,8 +14,8 @@ MonoBehaviour:
   DisplayName: Quizmaster's Revenge
   Description: Round 2. Fight!
   GeneratorSetting:
-    TimeLimit: 10800
-    NumStrikes: 15
+    TimeLimit: 14400
+    NumStrikes: 20
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
     OptionalWidgetCount: 5
@@ -74,6 +74,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - CreationModule
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - DenialDisplaysModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -175,12 +181,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - TheBulbModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - TheGamepadModule
     - Count: 1
       AllowedSources: 2
@@ -188,12 +188,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - TicTacToeModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - Trajectory
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -391,6 +385,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - nameCodes
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - navinums
     - Count: 1
       AllowedSources: 2
@@ -487,12 +487,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - snowflakes
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - stars
     - Count: 1
       AllowedSources: 2
@@ -505,12 +499,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - superparsing
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - tenpins
     - Count: 1
       AllowedSources: 2
@@ -518,6 +506,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - topsyTurvy
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - tripleTermModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -536,6 +530,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - wolfGoatCabbageModule
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - xobekuj
     - Count: 15
       AllowedSources: 2
       ComponentTypes: 
