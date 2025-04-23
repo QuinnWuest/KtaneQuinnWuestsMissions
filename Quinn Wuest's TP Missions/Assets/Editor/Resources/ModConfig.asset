@@ -19,12 +19,10 @@ MonoBehaviour:
 
     Includes:
 
-    Don''t Skip Queue! (47)
-
     Circumstances and Instances That May Cause Twitch Plays to Require "!callset 7"
-    and Other Common Events (47)
+    and Other Common Events
 
-    Showdown 175 (175)'
+    Showdown 175: Volume A'
   version: 1.0
   outputFolder: build
-  previewImage: {fileID: 2800000, guid: 0ae2d69d42fd7b5478cb9b72c532e5f0, type: 3}
+  previewImage: {fileID: 2800000, guid: b3edfc4acb3e510498b9942c3b182e7a, type: 3}

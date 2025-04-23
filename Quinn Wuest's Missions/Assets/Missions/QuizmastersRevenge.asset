@@ -15,7 +15,7 @@ MonoBehaviour:
   Description: Round 2. Fight!
   GeneratorSetting:
     TimeLimit: 14400
-    NumStrikes: 20
+    NumStrikes: 10
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
     OptionalWidgetCount: 5
