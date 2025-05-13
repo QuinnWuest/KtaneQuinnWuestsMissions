@@ -19,10 +19,12 @@ MonoBehaviour:
 
     Includes:
 
-    Circumstances and Instances That May Cause Twitch Plays to Require "!callset 7"
-    and Other Common Events
+    - Circumstances and Instances That May Cause Twitch Plays to Require "!callset
+    7" and Other Common Events
 
-    Showdown 175: Volume A'
+    - Showdown 175: Volume A
+
+    - Showdown 175: Volume B'
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: b3edfc4acb3e510498b9942c3b182e7a, type: 3}
