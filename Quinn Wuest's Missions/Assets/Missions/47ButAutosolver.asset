@@ -19,7 +19,7 @@ MonoBehaviour:
 
     1x Pow'
   GeneratorSetting:
-    TimeLimit: 4487
+    TimeLimit: 7200
     NumStrikes: 7
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
