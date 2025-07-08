@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -434690030, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+  m_Name: DTC
+  m_EditorClassIdentifier: 
+  Title: DTC Missions
+  Sections:
+  - Title: Section 1
+    MissionIDs:
+    - 1-1-NewFlashyColours
+    - 1-2-StrangeLanguages
+    - 1-3-HighStakes
+    - 1-4-AllRise
+    - 1-5-TheRecap
+    - 1-6-QuickAsAFlash
+    - 1-7-AnActuallyUsefulLanguage
+    - 1-8-ChallengeI
+  - Title: Section 2
+    MissionIDs:
+    - 2-1-GlyphsInSpace
+    - 2-2-GriddingAndToughing
+    - 2-3-CrimeBosssMathLesson
+    - 2-4-AlphabetHeadache
+    - 2-5-TheEnigmaCode
+    - 2-6-LastPractice
+    - 2-7-ChallengeII
+  - Title: Section 3
+    MissionIDs:
+    - 3-1-CompetitionBomb1
+    - 3-2-CompetitionBomb2
+    - 3-3-CompetitionBomb3
+    - 3-4-CompetitionBomb4
+    - 3-5-CompetitionBomb5
+  - Title: Section 4
+    MissionIDs:
+    - 4-1-OneStepBack
+    - 4-2-AdjacencyMatrix
+    - 4-3-CrystalClearCommunication
+    - 4-4-ChallengeIII
+  - Title: Section 5
+    MissionIDs:
+    - 5-1-SpeedTyping
+    - 5-2-TheChaChaSlide
+    - 5-3-TheLastColoredSquares
+    - 5-4-InsideTheBombsMind
+    - 5-5-ChallengeIV
+    - 5-6-YearOfTheSnakeChallenge
+  - Title: Section 6
+    MissionIDs:
+    - 6-1-8ModulesIn1
+    - 6-2-DivideAndConquer
+    - 6-3-PuzzleMarathon
+    - 6-4-RememberMeNow
+    - 6-5-ASpecialAwarenessChallenge
+    - 6-6-ChallengeV
