@@ -63,10 +63,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - Poker
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - nopacin
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0
