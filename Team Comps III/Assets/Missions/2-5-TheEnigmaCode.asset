@@ -28,7 +28,7 @@ MonoBehaviour:
       ModTypes:
       - forgetEnigma
     - Count: 5
-      AllowedSources: 0
+      AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 1
       ModTypes: []

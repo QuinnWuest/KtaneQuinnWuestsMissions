@@ -45,7 +45,7 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes: []
     - Count: 2
-      AllowedSources: 0
+      AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 1
       ModTypes: []
