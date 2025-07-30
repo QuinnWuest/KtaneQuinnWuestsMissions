@@ -341,7 +341,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - GrayButtonModule
+      - encoloryption
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
