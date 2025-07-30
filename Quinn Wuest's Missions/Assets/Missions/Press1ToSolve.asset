@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Press1ToSolve
   m_EditorClassIdentifier: 
   DisplayName: Press 1 to Solve!
-  Description: 'In theory, this bomb should only require 59 different clicks.
+  Description: '59 clicks, 59 solves. Hopefully.
 
 
     1x Module Maneuvers
